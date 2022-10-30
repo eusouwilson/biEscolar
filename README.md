@@ -3,10 +3,10 @@ Analise de dados de uma escola e criação de um dashboard para acompanhamento d
 
 Requisitos:
 
-[ ] Quantidade de alunos matriculados
-  [ ] Por Nível 
-  [ ] Por Turma
-  [ ] Por Séerie
-  [ ] Tipo de Alunos(Rematriculas, Novos)
-  [ ] Bolsistas(50% e 100%)
+[ ] Quantidade de alunos matriculados<br>
+ <li> [ ] Por Nível </li> 
+ <li>  [ ] Por Turma </li> 
+ <li>  [ ] Por Séerie </li> 
+ <li>  [ ] Tipo de Alunos(Rematriculas, Novos)</li> 
+ <li>  [ ] Bolsistas(50% e 100%)</li> 
   
