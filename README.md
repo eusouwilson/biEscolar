@@ -1,7 +1,10 @@
 # biEscolar
 Analise de dados de uma escola e criação de um dashboard para acompanhamento das matrículas
 
-Requisitos:
+Metricas:
+ <li> Churn – ou Taxa de Cancelamento de Matrículas </li> 
+ 
+
 
 Quantidade de alunos matriculados<br>
  <li>  Por Nível </li> 
